@@ -16,9 +16,6 @@ This project is a clone of the Thomas Cook website, aiming to replicate its core
 ## Project Overview
 
 - **Project Status**: Active
-- **Team**:
--     -*Backend* - [Prakarsh Kaushi], [Amandeep Srivastava], [Pratham Maheshwari], [Sejal Gupta]
--     -*Frontend* - {Suryanshu Verma], [Tansishka Sati], [Nikhil Srivastava]
 - **Date**: [15th September 2023]
 
 ## Features
@@ -43,4 +40,5 @@ This project is a clone of the Thomas Cook website, aiming to replicate its core
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Prakarsh-Kaushik/thomas-cook-clone.git
+   git clone https://github.com/DanthuluriSatya/ThomasCookCode.git
+
